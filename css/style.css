@@ -16,9 +16,6 @@ footer {
   text-align: center;
   background: #505050;
 }
-footer p {
-  color: #fff;
-}
-footer small p {
+footer small {
   color: #fff;
 }
