@@ -1,0 +1,12 @@
+body {margin: 0;}
+header {
+  display: flex;
+  background: #4d97ff;
+}
+main {
+  text-align: center;
+}
+footer {
+  text-align: center;
+  background: #505050;
+}
